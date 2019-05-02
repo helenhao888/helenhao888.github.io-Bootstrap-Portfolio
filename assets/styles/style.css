@@ -32,10 +32,9 @@ a:active{
 .hthree{
     background-color:#4aaaa5;
     color:white;
-
     margin-top:-55px;
     text-align:center;
- 
+    width:100%;
 }
 
 .subtitle{
@@ -121,4 +120,4 @@ a:active{
         width:100%;
         margin-left:0;
         margin-right:0;
-        }
+}
